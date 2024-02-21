@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px"> <br>
+    Hi <img src="./Hi.gif" width="30px"> <br>
     I'm <b>Full-Stack Web3 Developer</b>
 </h1>
 
