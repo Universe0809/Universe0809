@@ -56,8 +56,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="./web-3-icon.svg" alt="icon" width="65" height="65" />
+      <br>Web3
     </td>
   </tr>
   <tr>
