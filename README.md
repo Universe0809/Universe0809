@@ -247,9 +247,3 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=atsumi000105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
