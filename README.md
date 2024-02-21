@@ -141,8 +141,6 @@
 
 </div>
 
-# Welcome!
-
 ## My personal values and work ethic
 
 ✨ I want to build strong relationships with my clients.
@@ -173,11 +171,7 @@
 
 ✨ Payment gateway integration ✔Stripe, ✔PayPal
 
-<br/>
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
-
-<br/>
 
 ## Languages and Tools
 
